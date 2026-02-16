@@ -10,10 +10,10 @@ tags:
 - fundamental
 - networking
 ---
-<!--
+<!-- ---
 title: kube-proxy
 id: kube-proxy
-full_link: /docs/reference/command-line-tools-reference/kube-proxy/
+full_link: /zh-cn/docs/reference/command-line-tools-reference/kube-proxy/
 short_description: >
   `kube-proxy` is a network proxy that runs on each node in the cluster.
 
@@ -21,14 +21,13 @@ aka:
 tags:
 - fundamental
 - networking
--->
-
-<!--
-kube-proxy is a network proxy that runs on each
-{{< glossary_tooltip text="node" term_id="node" >}} in your cluster,
-implementing part of the Kubernetes
-{{< glossary_tooltip term_id="service">}} concept.
--->
+--- -->
+ <!--
+ kube-proxy is a network proxy that runs on each
+ {{< glossary_tooltip text="node" term_id="node" >}} in your cluster,
+ implementing part of the Kubernetes
+ {{< glossary_tooltip term_id="service">}} concept.
+ -->
 [kube-proxy](/zh-cn/docs/reference/command-line-tools-reference/kube-proxy/)
 是集群中每个{{< glossary_tooltip text="节点（node）" term_id="node" >}}上所运行的网络代理，
 实现 Kubernetes {{< glossary_tooltip term_id="service">}} 概念的一部分。

@@ -1,7 +1,7 @@
 ---
 title: ResourceClaimTemplate
 id: resourceclaimtemplate
-full_link: /zh-cn/docs/concepts/scheduling-eviction/dynamic-resource-allocation/#resourceclaims-templates
+full_link: /docs/concepts/scheduling-eviction/dynamic-resource-allocation/#resourceclaims-templates
 short_description: >
   定义一个模板，Kubernetes 据此创建 ResourceClaim。此模板用于为每个 Pod 提供对一些独立、相似的资源的访问权限。
 

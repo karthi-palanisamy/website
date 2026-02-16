@@ -1,7 +1,7 @@
 ---
 title: 动态资源分配
 id: dra
-full_link: /zh-cn/docs/concepts/scheduling-eviction/dynamic-resource-allocation/
+full_link: /docs/concepts/scheduling-eviction/dynamic-resource-allocation/
 short_description: >
   Kubernetes 提供的一项特性，用于在 Pod 之间请求和共享资源，例如硬件加速器。
 

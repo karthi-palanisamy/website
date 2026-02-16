@@ -16,7 +16,6 @@ tags:
 ---
 title: Kubectl
 id: kubectl
-date: 2018-04-12
 full_link: /docs/reference/kubectl/
 short_description: >
   A command line tool for communicating with a Kubernetes cluster.
